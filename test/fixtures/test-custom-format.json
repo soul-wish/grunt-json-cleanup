@@ -1,0 +1,9 @@
+{
+    "SAMPLE": {
+        "CUSTOM": {
+            "EMPTY_STRING": "",
+            "STRING_KEY": "Value",
+            "NUMERIC_KEY": 42
+        }
+    }
+}
